@@ -1,0 +1,18 @@
+<wpml-config>
+    <custom-types>
+		<custom-type translate="0">ag_collections</custom-type>
+		<custom-type translate="1">ag_galleries</custom-type>
+	</custom-types>  
+	
+	<taxonomies>
+		<taxonomy translate="1">ag_gall_categories</taxonomy>
+	</taxonomies>
+	
+	<admin-texts>
+		<key name="ag_tags_all_txt"/>
+		<key name="ag_coll_back_to"/>
+		<key name="ag_filters_all_txt"/>
+	</admin-texts>
+</wpml-config>
+
+
